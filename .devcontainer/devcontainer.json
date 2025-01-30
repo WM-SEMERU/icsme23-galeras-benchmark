@@ -19,7 +19,7 @@
         "MY_PROJECT_NAME": "galeras-benchmark"
     },
 	"forwardPorts": ["3444:8888", "4040:4040"],
-	"runArgs": ["-e", "GRANT_SUDO=yes","--name", "${localWorkspaceFolderBasename}-danielrc", "--add-host", "host.docker.internal:host-gateway"]	
+	"runArgs": ["-e", "GRANT_SUDO=yes","--name", "${localWorkspaceFolderBasename}-svelascodimate", "--add-host", "host.docker.internal:host-gateway"]	
 	//"initializeCommand": "docker build -f .devcontainer/Dockerfile --network host -t test:version ." #IMAGE TAG
 }
 	

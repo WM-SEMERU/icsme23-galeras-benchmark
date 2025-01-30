@@ -5,21 +5,25 @@ import json
 import os
 import cld3
 
-import ast_tree
+#import ast_tree
 from tree_sitter import Language, Parser
+import tree_sitter_python as tspython
 import list_all_repos
 
-start_date = datetime(2022, 1, 1, 0, 0, 0)
-end_date = datetime(2023, 1, 1, 0, 0, 0)
+start_date = datetime(2020, 1, 1, 0, 0, 0)
+end_date = datetime(2025, 1, 1, 0, 0, 0)
 
 # Then query for Python repositories sorted by stars and exclude forks
-query = 'language:Java fork:false pushed:>2021-12-31 stars:>1000'
+#'language:Java fork:false pushed:>2021-12-31 stars:>1000'
 #'language:Python fork:false size:>=30000 pushed:>2021-12-31 stars:>2000'
+query = 'language:Python fork:false stars:>1000'
 
 repos = list_all_repos.get_all_repos(query, 200)
 methods = ()
-save_path = "/nfs/semeru/semeru_datasets/galeras_curated_raw_V3/{}/{}"
-save_path1 = "/nfs/semeru/semeru_datasets/galeras_curated_raw_V3/{}"
+#save_path = "/nfs/semeru/semeru_datasets/galeras_curated_raw_V3/{}/{}"
+#save_path1 = "/nfs/semeru/semeru_datasets/galeras_curated_raw_V3/{}"
+save_path = "/workspaces/galeras-benchmark/datasets/code_smells/{}/{}"
+save_path1 = "/workspaces/galeras-benchmark/datasets/code_smells/{}"
 
 
 #'/scratch/danielrc/dataset_extractor/repos/{}'.format(repo_name)
@@ -41,9 +45,10 @@ save_path1 = "/nfs/semeru/semeru_datasets/galeras_curated_raw_V3/{}"
 
 class TreeSitterManager():
     def __init__(self, lang):
-        self.language = self.get_language(lang)
-        self.parser = Parser()
-        self.parser.set_language(self.language)
+        #self.language = self.get_language(lang)
+        self.language = Language(tspython.language())
+        self.parser = Parser(self.language)
+        #self.parser.set_language(self.language)
 
     def get_language(self, lang):
         return Language(f"{ast_tree.__path__[0]}/grammars/tree-sitter-languages.so", lang)

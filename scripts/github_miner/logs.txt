@@ -1,0 +1,819 @@
+starting mining  public-apis
+saving data
+69
+starting mining  system-design-primer
+0
+starting mining  awesome-python
+0
+starting mining  Python
+missed commit error
+saving data
+saving data
+685
+starting mining  AutoGPT
+missed commit error
+saving data
+0
+starting mining  Python-100-Days
+saving data
+27
+starting mining  stable-diffusion-webui
+saving data
+saving data
+1225
+starting mining  transformers
+saving data
+saving data
+saving data
+saving data
+saving data
+saving data
+missed commit error
+saving data
+saving data
+757
+starting mining  youtube-dl
+missed commit error
+saving data
+saving data
+1905
+starting mining  yt-dlp
+missed commit error
+saving data
+saving data
+2764
+starting mining  HelloGitHub
+0
+starting mining  thefuck
+saving data
+198
+starting mining  pytorch
+missed commit error
+saving data
+saving data
+175
+starting mining  django
+saving data
+saving data
+saving data
+missed commit error
+saving data
+saving data
+307
+starting mining  fastapi
+saving data
+2762
+starting mining  models
+saving data
+4616
+starting mining  core
+saving data
+saving data
+saving data
+saving data
+saving data
+saving data
+saving data
+saving data
+saving data
+saving data
+saving data
+saving data
+saving data
+saving data
+saving data
+saving data
+saving data
+saving data
+saving data
+saving data
+saving data
+saving data
+saving data
+saving data
+saving data
+saving data
+saving data
+saving data
+saving data
+2862
+starting mining  whisper
+saving data
+113
+starting mining  manim
+saving data
+saving data
+1472
+starting mining  funNLP
+0
+starting mining  flask
+saving data
+895
+starting mining  devops-exercises
+saving data
+38
+starting mining  screenshot-to-code
+saving data
+76
+starting mining  gpt_academic
+saving data
+4513
+starting mining  awesome-machine-learning
+0
+starting mining  d2l-zh
+saving data
+4274
+starting mining  ComfyUI
+saving data
+saving data
+1865
+starting mining  cpython
+missed commit error
+saving data
+saving data
+1135
+starting mining  ansible
+missed commit error
+saving data
+saving data
+2373
+starting mining  gpt4free
+missed commit error
+saving data
+saving data
+308
+starting mining  PayloadsAllTheThings
+saving data
+18
+starting mining  keras
+saving data
+saving data
+saving data
+saving data
+saving data
+saving data
+saving data
+saving data
+2256
+starting mining  sherlock
+saving data
+279
+starting mining  scikit-learn
+saving data
+saving data
+saving data
+saving data
+saving data
+1844
+starting mining  annotated_deep_learning_paper_implementations
+saving data
+763
+starting mining  new-pac
+saving data
+5
+starting mining  open-interpreter
+missed commit error
+saving data
+saving data
+411
+starting mining  DeepSeek-V3
+saving data
+3
+starting mining  localstack
+saving data
+saving data
+saving data
+missed commit error
+saving data
+saving data
+2738
+starting mining  llama
+saving data
+7
+starting mining  private-gpt
+saving data
+141
+starting mining  you-get
+missed commit error
+saving data
+saving data
+11
+starting mining  face_recognition
+saving data
+17
+starting mining  scrapy
+missed commit error
+saving data
+saving data
+1351
+starting mining  Real-Time-Voice-Cloning
+saving data
+170
+starting mining  faceswap
+saving data
+saving data
+1325
+starting mining  gpt-engineer
+saving data
+1357
+starting mining  requests
+saving data
+589
+starting mining  yolov5
+saving data
+4489
+starting mining  openpilot
+missed commit error
+saving data
+saving data
+631
+starting mining  hackingtool
+saving data
+791
+starting mining  rich
+saving data
+2740
+starting mining  grok-1
+saving data
+23
+starting mining  professional-programming
+saving data
+11
+starting mining  big-list-of-naughty-strings
+0
+starting mining  PaddleOCR
+saving data
+saving data
+4279
+starting mining  MetaGPT
+missed commit error
+saving data
+saving data
+175
+starting mining  langflow
+missed commit error
+saving data
+saving data
+263
+starting mining  OpenHands
+missed commit error
+saving data
+saving data
+2100
+starting mining  pandas
+saving data
+saving data
+saving data
+saving data
+saving data
+saving data
+saving data
+saving data
+saving data
+saving data
+saving data
+saving data
+saving data
+3709
+starting mining  30-Days-Of-Python
+saving data
+6
+starting mining  Deep-Live-Cam
+saving data
+259
+starting mining  Fooocus
+saving data
+saving data
+149
+starting mining  text-generation-webui
+saving data
+saving data
+262
+starting mining  ChatGLM-6B
+saving data
+115
+starting mining  python-patterns
+saving data
+294
+starting mining  odoo
+saving data
+saving data
+missed commit error
+saving data
+saving data
+4351
+starting mining  diagrams
+saving data
+162
+starting mining  ailearning
+saving data
+211
+starting mining  stablediffusion
+saving data
+636
+starting mining  sentry
+missed commit error
+saving data
+saving data
+2672
+starting mining  GPT-SoVITS
+saving data
+1329
+starting mining  black
+missed commit error
+saving data
+saving data
+306
+starting mining  ColossalAI
+saving data
+saving data
+saving data
+saving data
+saving data
+2298
+starting mining  LLaMA-Factory
+saving data
+1081
+starting mining  cheat.sh
+saving data
+112
+starting mining  nanoGPT
+saving data
+78
+starting mining  Deep-Learning-Papers-Reading-Roadmap
+0
+starting mining  bert
+0
+starting mining  airflow
+saving data
+saving data
+saving data
+saving data
+saving data
+saving data
+saving data
+saving data
+saving data
+saving data
+missed commit error
+saving data
+saving data
+4988
+starting mining  autogen
+missed commit error
+saving data
+saving data
+4058
+starting mining  llama_index
+saving data
+saving data
+3960
+starting mining  mitmproxy
+missed commit error
+saving data
+saving data
+1109
+starting mining  FastChat
+saving data
+1840
+starting mining  TTS
+saving data
+saving data
+3649
+starting mining  Open-Assistant
+saving data
+1995
+starting mining  quivr
+saving data
+1826
+starting mining  streamlit
+saving data
+saving data
+4966
+starting mining  WeChatMsg
+missed commit error
+saving data
+saving data
+1843
+starting mining  python-cheatsheet
+saving data
+27
+starting mining  interview_internal_reference
+0
+starting mining  DeepSpeed
+missed commit error
+saving data
+saving data
+1330
+starting mining  GFPGAN
+saving data
+195
+starting mining  wtfpython
+saving data
+7
+starting mining  ultralytics
+saving data
+saving data
+saving data
+335
+starting mining  markitdown
+saving data
+42
+starting mining  DragGAN
+saving data
+818
+starting mining  OpenBB
+saving data
+saving data
+saving data
+saving data
+saving data
+4546
+starting mining  MockingBird
+saving data
+772
+starting mining  freqtrade
+saving data
+missed commit error
+saving data
+saving data
+5000
+starting mining  gradio
+missed commit error
+saving data
+saving data
+4940
+starting mining  vllm
+saving data
+saving data
+2188
+starting mining  gym
+saving data
+3482
+starting mining  ray
+missed commit error
+saving data
+saving data
+177
+starting mining  cli
+saving data
+1012
+starting mining  TaskMatrix
+saving data
+385
+starting mining  HanLP
+saving data
+2483
+starting mining  ccxt
+saving data
+saving data
+saving data
+saving data
+saving data
+missed commit error
+saving data
+saving data
+3911
+starting mining  12306
+0
+starting mining  ChatTTS
+saving data
+395
+starting mining  jieba
+saving data
+17
+starting mining  shadowsocks
+0
+starting mining  sqlmap
+missed commit error
+saving data
+saving data
+589
+starting mining  XX-Net
+saving data
+saving data
+saving data
+missed commit error
+saving data
+saving data
+4424
+starting mining  pytorch-image-models
+missed commit error
+saving data
+saving data
+3831
+starting mining  chatgpt-on-wechat
+saving data
+2074
+starting mining  poetry
+saving data
+4439
+starting mining  Python
+missed commit error
+saving data
+saving data
+697
+starting mining  gpt-pilot
+saving data
+3307
+starting mining  certbot
+saving data
+saving data
+722
+starting mining  ControlNet
+saving data
+1734
+starting mining  jax
+saving data
+saving data
+saving data
+saving data
+3504
+starting mining  detectron2
+saving data
+3261
+starting mining  fairseq
+saving data
+missed commit error
+saving data
+saving data
+1214
+starting mining  spaCy
+saving data
+saving data
+292
+starting mining  pytorch-tutorial
+0
+starting mining  OpenVoice
+saving data
+136
+starting mining  ragflow
+saving data
+saving data
+479
+starting mining  linux-insides
+saving data
+2
+starting mining  mmdetection
+saving data
+saving data
+1768
+starting mining  interactive-coding-challenges
+saving data
+148
+starting mining  stanford_alpaca
+saving data
+12
+starting mining  manim
+saving data
+saving data
+4041
+starting mining  Real-ESRGAN
+saving data
+173
+starting mining  Umi-OCR
+saving data
+1867
+starting mining  tqdm
+saving data
+1339
+starting mining  roop
+saving data
+393
+starting mining  pytorch-lightning
+saving data
+saving data
+saving data
+saving data
+saving data
+saving data
+saving data
+saving data
+2525
+starting mining  CheatSheetSeries
+saving data
+2
+starting mining  django-rest-framework
+saving data
+889
+starting mining  numpy
+saving data
+missed commit error
+saving data
+saving data
+1458
+starting mining  llama3
+saving data
+19
+starting mining  Hello-Python
+saving data
+52
+starting mining  ChatGPT
+saving data
+895
+starting mining  crawl4ai
+saving data
+963
+starting mining  data-science-ipython-notebooks
+0
+starting mining  tinygrad
+missed commit error
+saving data
+0
+starting mining  glances
+saving data
+4222
+starting mining  DeepFaceLive
+missed commit error
+saving data
+saving data
+482
+starting mining  python-fire
+saving data
+158
+starting mining  hosts
+saving data
+199
+starting mining  diffusers
+missed commit error
+saving data
+saving data
+3064
+starting mining  mindsdb
+missed commit error
+saving data
+saving data
+394
+starting mining  GPT_API_free
+0
+starting mining  textual
+saving data
+missed commit error
+saving data
+saving data
+494
+starting mining  python-telegram-bot
+missed commit error
+saving data
+saving data
+915
+starting mining  Jobs_Applier_AI_Agent_AIHawk
+saving data
+78
+starting mining  redash
+saving data
+2114
+starting mining  vnpy
+missed commit error
+saving data
+0
+starting mining  Retrieval-based-Voice-Conversion-WebUI
+saving data
+1660
+starting mining  so-vits-svc
+missed commit error
+saving data
+saving data
+1145
+starting mining  cascadia-code
+saving data
+37
+starting mining  Detectron
+saving data
+13
+starting mining  spleeter
+saving data
+353
+starting mining  kitty
+missed commit error
+saving data
+saving data
+1924
+starting mining  ChatDev
+saving data
+1361
+starting mining  jumpserver
+saving data
+saving data
+saving data
+saving data
+840
+starting mining  aider
+saving data
+saving data
+3515
+starting mining  ItChat
+0
+starting mining  crewAI
+saving data
+2490
+starting mining  MiniGPT-4
+saving data
+1340
+starting mining  YouCompleteMe
+method exists but failed to recover
+method exists but failed to recover
+method exists but failed to recover
+saving data
+388
+starting mining  locust
+missed commit error
+saving data
+saving data
+1949
+starting mining  khoj
+saving data
+2878
+starting mining  celery
+saving data
+3460
+starting mining  EasyOCR
+saving data
+709
+starting mining  wttr.in
+saving data
+381
+starting mining  generative-models
+saving data
+441
+starting mining  MinerU
+missed commit error
+saving data
+saving data
+299
+starting mining  pipenv
+saving data
+missed commit error
+saving data
+saving data
+925
+starting mining  Mask_RCNN
+0
+starting mining  d2l-en
+saving data
+saving data
+368
+starting mining  supervision
+saving data
+889
+starting mining  GitHub520
+saving data
+16
+starting mining  algorithms
+saving data
+560
+starting mining  openai-python
+saving data
+1345
+starting mining  ML-From-Scratch
+0
+starting mining  mem0
+saving data
+2684
+starting mining  paperless-ngx
+saving data
+saving data
+2437
+starting mining  insightface
+missed commit error
+saving data
+saving data
+3781
+starting mining  PythonRobotics
+saving data
+1464
+starting mining  JARVIS
+saving data
+210
+starting mining  deep-learning-for-image-processing
+saving data
+3375
+starting mining  Hitomi-Downloader
+missed commit error
+saving data
+saving data
+59
+starting mining  posthog
+saving data
+saving data
+saving data
+saving data
+saving data
+saving data
+saving data
+saving data
+3612
+starting mining  pytorch-CycleGAN-and-pix2pix
+saving data
+41
+starting mining  Genesis
+saving data
+4256
+starting mining  Open-Sora
+saving data
+2736
+starting mining  labelImg
+saving data
+388
+starting mining  erpnext
+saving data

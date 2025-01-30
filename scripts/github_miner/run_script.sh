@@ -1,0 +1,1 @@
+nohup python3 -u /workspaces/galeras-benchmark/src/git_miner/main.py > /workspaces/galeras-benchmark/scripts/github_miner/logs.txt &

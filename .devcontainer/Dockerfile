@@ -1,4 +1,4 @@
-FROM jupyter/minimal-notebook
+FROM jupyter/minimal-notebook:python-3.9
 ARG MY-PROJECT-NAME
 ADD ./requirements.txt .
 USER root
