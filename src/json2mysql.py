@@ -22,10 +22,10 @@ def get_json_files(directory):
     return json_files
 
 
-json_path = '/workspaces/chat-gpt-failures/datasets/galeras_curated_raw_V3/text-generation-inference'
+json_path = '/workspaces/galeras-benchmark/datasets/code_smells'
 json_files = get_json_files(json_path)
 
-index = 338481
+index = 1751214 
 for i, file in enumerate(json_files):
     with open(file) as json_file:
         json_data = json.load(json_file)
@@ -55,23 +55,26 @@ for i, file in enumerate(json_files):
             token_counts= validate_string(item.get("token_counts"))
             n_ast_nodes= validate_string(item.get("n_ast_nodes"))
             n_identifiers= validate_string(item.get("n_identifiers"))
-            
-            cursor.execute("INSERT INTO repo_code_dataset (id,commit_id,	repo,	path, file_name, fun_name, commit_message,\
+            try: 
+                cursor.execute("INSERT INTO repo_code_dataset (id,commit_id,	repo,	path, file_name, fun_name, commit_message,\
                         code, url, language, ast_errors, n_ast_errors, ast_levels,n_whitespaces,n_words, vocab_size,complexity,\
                             nloc,token_counts,n_ast_nodes,n_identifiers)\
                             VALUES (%s,%s,	%s,	%s,%s,	%s,	%s,%s,	%s,	%s,%s,	%s,	%s,%s,	%s,	%s,%s,	%s,	%s,%s,	%s)",
                             (index, commit_id,	repo,	path, file_name, fun_name, commit_message,code, url, language,\
                                 ast_errors, n_ast_errors, ast_levels,n_whitespaces,n_words,vocab_size,complexity,nloc,token_counts,n_ast_nodes,n_identifiers))
-            documentation = item.get("documentation")
-            if not documentation:
-                continue
-            docstring= documentation["docstring"]
-            dn_words = validate_string(documentation["n_words"])
-            d_vocab_size = validate_string(documentation["vocab_size"])
-            dn_whitespaces = validate_string(documentation["n_whitespaces"])
-            d_language = documentation["language"]
-            
-            cursor.execute("INSERT INTO repo_documentation (datapoint_id,docstring, n_words,vocab_size,n_whitespaces,language)\
-                VALUES (%s,%s,%s,%s,%s,%s)",(index, docstring, dn_words,d_vocab_size,dn_whitespaces,d_language))
+                documentation = item.get("documentation")
+                if not documentation:
+                    continue
+                docstring= documentation["docstring"]
+                dn_words = validate_string(documentation["n_words"])
+                d_vocab_size = validate_string(documentation["vocab_size"])
+                dn_whitespaces = validate_string(documentation["n_whitespaces"])
+                d_language = documentation["language"]
+                cursor.execute("INSERT INTO repo_documentation (datapoint_id,docstring, n_words,vocab_size,n_whitespaces,language)\
+                    VALUES (%s,%s,%s,%s,%s,%s)",(index, docstring, dn_words,d_vocab_size,dn_whitespaces,d_language))
+            except Exception as ex:
+                print(ex)
+                print('----------------------------------------')
+                index-=1
         con.commit()
         con.close()
