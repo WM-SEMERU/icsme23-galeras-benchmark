@@ -1,0 +1,1 @@
+nohup python3 -u /workspaces/galeras-benchmark/scripts/pylint_analysis/pylint.py > /workspaces/galeras-benchmark/scripts/pylint_analysis/logs.txt &

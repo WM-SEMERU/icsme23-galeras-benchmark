@@ -1,1 +1,3 @@
-Error: (1205, 'Lock wait timeout exceeded; try restarting transaction')
+Database connection established.
+Fetched 253762 records with n_ast_errors = 0 from the database.
+Data successfully saved to '/workspaces/galeras-benchmark/datasets/code_smells/distinct_repo_code_dataset.json'.
